@@ -9,7 +9,7 @@ exposes it through a REST API, WebSocket stream, and MCP endpoint — so your
 AI agents have full structural context, across every branch and every
 session. Self-hosted, one server, one source of truth.
 
-[Website](https://ravmem.com) · [Docs](https://ravmem.com/docs) · [X](https://x.com/ravmem) · [LinkedIn](https://linkedin.com/company/ravmem)
+[Website](https://ravmem.com) · [Docs](https://ravmem.com/docs) · [X](https://x.com/ravmem) · [LinkedIn](https://linkedin.com/company/ravmem-tech)
 
 </div>
 
