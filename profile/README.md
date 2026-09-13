@@ -29,11 +29,4 @@ session. Self-hosted, one server, one source of truth.
 Both are reachable from Claude Desktop or any MCP client, a web dashboard, or
 the CLI, with RBAC, API tokens, and audit logging built in for teams.
 
-## What's here
-
-| Repo | What it is |
-|---|---|
-| **ravmem-cli** | Pure HTTP client for the RavMem server, published to PyPI |
-| **ravmem-ui** | React dashboard for browsing the graph and memory layer |
-
 More repos will open up here over time.
